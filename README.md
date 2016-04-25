@@ -8,3 +8,5 @@
 [self.imageView setOnlineImage:IMAGE_URL];
 [self.imageView1 setOnlineImage:IMAGE_URL1 placeholderImage:[UIImage imageNamed:@"question_mark"]];</code>
 </pre>
+
+http://blog.csdn.net/jasonblog/article/details/7352483
